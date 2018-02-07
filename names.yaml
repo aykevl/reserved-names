@@ -19,6 +19,7 @@ generic:
   - bug
   - business
   - company
+  - cdn
   - default
   - devel
   - email
